@@ -1,0 +1,6 @@
+@JesperDocker_HostAddress = http://localhost:5296
+
+GET {{JesperDocker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
